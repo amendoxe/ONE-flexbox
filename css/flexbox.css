@@ -1,0 +1,9 @@
+.headerPrincipal .container {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+//this some comment
+.headerPrincipal-nav {
+	display: flex;
+}
